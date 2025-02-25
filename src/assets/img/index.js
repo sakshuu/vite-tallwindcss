@@ -1,0 +1,10 @@
+export { default as pic } from "./pic.png";
+export { default as star } from "./star.svg";
+export { default as Be } from "./Be.png";
+export { default as cock } from "./cock.png";
+export { default as facebook } from "./facebook.png";
+export { default as linkdin} from "./linkdin.png";
+export { default as location } from "./location.png";
+export { default as mail } from "./mail.png";
+export { default as phone } from "./phone.png";
+// export { default as phone } from "./phone.png";
