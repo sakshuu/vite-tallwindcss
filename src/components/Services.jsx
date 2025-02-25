@@ -10,7 +10,7 @@ const Services = () => {
   <div className='main-swiper'>
   <div className='text-4xl font-bold text-black mt-8 text-center mt-10'>
   What 
-     <span className='text-green-400'>Client </span> says <span className='text-red-400'>About</span> my  <span className='text-yellow-400'>Services</span> </div>
+     <span className='text-green-400'> Client </span> says <span className='text-red-400'>About</span> my  <span className='text-yellow-400'>Services</span> </div>
         <Swiper
         effect={'coverflow'}
         grabCursor={true}
